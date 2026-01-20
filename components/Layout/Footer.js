@@ -12,17 +12,6 @@ const Footer = () => {
           <p className="mb-4">
             <strong className="font-medium text-indigo-600">SapdaConnect</strong> adalah penyedia solusi IT terpercaya untuk pembuatan platform Website digital dan infrastruktur jaringan internet.
           </p>
-          <div className="flex w-full mt-2 mb-8 -mx-2">
-            <div className="mx-2 bg-white-500 rounded-full items-center justify-center flex p-2 shadow-md cursor-pointer hover:bg-indigo-600 transition-all">
-              <Facebook className="h-6 w-6" />
-            </div>
-            <div className="mx-2 bg-white-500 rounded-full items-center justify-center flex p-2 shadow-md cursor-pointer hover:bg-indigo-600 transition-all">
-              <Twitter className="h-6 w-6" />
-            </div>
-            <div className="mx-2 bg-white-500 rounded-full items-center justify-center flex p-2 shadow-md cursor-pointer hover:bg-indigo-600 transition-all">
-              <Instagram className="h-6 w-6" />
-            </div>
-          </div>
           <p className="text-gray-400">©{new Date().getFullYear()} - SapdaConnect Indonesia</p>
         </div>
         <div className=" row-span-2 sm:col-span-2 sm:col-start-7 sm:col-end-9 flex flex-col">

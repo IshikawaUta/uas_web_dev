@@ -56,7 +56,6 @@ const Testimoni = ({
             <div className="border-2 border-gray-500 hover:border-indigo-500 transition-all rounded-lg p-8 flex flex-col">
               <div className="flex flex-col xl:flex-row w-full items-stretch xl:items-center">
                 <div className="flex order-2 xl:order-1">
-                  <Image src={item.image} height={50} width={50} alt="User" />
                   <div className="flex flex-col ml-5 text-left">
                     <p className="text-lg text-black-600 capitalize font-medium">{item.name}</p>
                     <p className="text-sm text-black-500 capitalize">{item.city}, {item.country}</p>
