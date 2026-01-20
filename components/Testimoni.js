@@ -21,7 +21,7 @@ const Testimoni = ({
       city: "Bandung",
       country: "Indonesia",
       rating: "4.8",
-      testimoni: "Sangat responsif! Tim TechConnect membantu setting jaringan kantor kami yang awalnya lambat jadi kencang kembali.",
+      testimoni: "Sangat responsif! Tim SapdaConnect membantu setting jaringan kantor kami yang awalnya lambat jadi kencang kembali.",
     },
     {
       name: "Budi Santoso",
